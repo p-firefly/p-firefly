@@ -28,3 +28,10 @@ Credits:
 	Other:
 		jQuery (jquery.com)
 		Responsive Tools (github.com/ajlkn/responsive-tools)
+
+
+Image 1: AdobeStock_196623239
+
+Image 2: https://www.redboxfire.co.uk/res/extinguisher-types.jpg
+
+Image 3: http://www.firemuseumcanada.com/wp-content/uploads/2016/07/FireExtinguishers-823x365.jpg
